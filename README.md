@@ -2,6 +2,8 @@
 - 프로젝트명: NSshop+ 판매실적 예측을 통한 편성 최적화 방안 도출
 - 팀명: FC성수 (김희주, 이태헌, 임상우, 최은비)
 
+[결과보고서 확인하기](https://github.com/p5653ceb/crawling-competition/blob/main/%EB%8D%B0%EC%9D%B4%EB%B6%84%EC%84%9D%EB%B6%84%EC%95%BC_%EC%B1%94%ED%94%BC%EC%96%B8%EB%A6%AC%EA%B7%B8_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C(github%20upload).pdf)
+
 ### 프로젝트 개요
 - 프로젝트 목적: T커머스의 내/외부 요인을 반영하여 최적 수익을 도출하는 편성 제안
 - 프로젝트 진행 기간: 2020년 8월 3일 ~ 2020년 9월 28일 (약 2개월)
